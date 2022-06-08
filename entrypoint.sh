@@ -5,7 +5,7 @@ DIR_CONFIG="/etc/v2ray"
 DIR_RUNTIME="/usr/bin"
 DIR_TMP="$(mktemp -d)"
 
-UUID=02eea92a-e97d-4736-8c88-5e3153ca85cb
+UUID=1edb5138-d349-4478-a865-38a172664d16
 WSPATH=/
 PORT=80
 
